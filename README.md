@@ -14,8 +14,7 @@
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![image](https://github.com/user-attachments/assets/1e65660f-93c3-4ca9-a9ce-0ed725e21d74)
-
+<img width="654" alt="image" src="https://github.com/user-attachments/assets/8e34e0fc-e19b-4561-a87e-5b7ec4c180c3" />
 
 ## Crear equipo con nombre correcto
 
