@@ -5,9 +5,17 @@
 - García Santana 
 - alu0101391663
 
+## Índice
+
+1. [Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo](#sección-1)
+2. [Crear equipo con nombre correcto](#sección-2)
+3. [Crear un project board kanban para este repositorio](#sección-3)
+4. [Solicitar el GitHub Backpack](#sección-4)
+
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+![image](https://github.com/user-attachments/assets/1e65660f-93c3-4ca9-a9ce-0ed725e21d74)
+
 
 ## Crear equipo con nombre correcto
 
