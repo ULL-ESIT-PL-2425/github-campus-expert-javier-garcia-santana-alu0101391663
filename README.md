@@ -14,16 +14,16 @@
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-<img width="654" alt="image" src="https://github.com/user-attachments/assets/8e34e0fc-e19b-4561-a87e-5b7ec4c180c3" />
+![Alt text](docs/formulario.png)
 
 ## Crear equipo con nombre correcto
 
-<img width="1025" alt="image" src="https://github.com/user-attachments/assets/be83c29f-4d9a-4288-b8e6-e4b9af7b5dea" />
+![Alt text](docs/nombre_equipo.png)
 
 ## Crear un project board kanban para este repositorio
 
-<img width="1503" alt="image" src="https://github.com/user-attachments/assets/e457878a-332c-44e6-82bb-3efd0396c731" />
+![Alt text](docs/kanban.png)
 
 ## Solicitar el GitHub Backpack
 
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/2c951548-ece0-476d-85fc-5331919bf457" />
+![Alt text](docs/github_education.png)
